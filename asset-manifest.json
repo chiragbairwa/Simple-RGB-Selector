@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Simple-RGB-Selector/static/js/main.469dabf9.chunk.js",
+    "main.js.map": "/Simple-RGB-Selector/static/js/main.469dabf9.chunk.js.map",
+    "runtime-main.js": "/Simple-RGB-Selector/static/js/runtime-main.d96564dc.js",
+    "runtime-main.js.map": "/Simple-RGB-Selector/static/js/runtime-main.d96564dc.js.map",
+    "static/js/2.a135e882.chunk.js": "/Simple-RGB-Selector/static/js/2.a135e882.chunk.js",
+    "static/js/2.a135e882.chunk.js.map": "/Simple-RGB-Selector/static/js/2.a135e882.chunk.js.map",
+    "index.html": "/Simple-RGB-Selector/index.html",
+    "static/js/2.a135e882.chunk.js.LICENSE.txt": "/Simple-RGB-Selector/static/js/2.a135e882.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d96564dc.js",
+    "static/js/2.a135e882.chunk.js",
+    "static/js/main.469dabf9.chunk.js"
+  ]
+}
